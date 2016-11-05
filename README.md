@@ -1,0 +1,3 @@
+# Remove_spaces_command
+When placed on your path on a unix based operating system you will be able to run the command remove_space.py and
+any files with spaces in their name will be replaced with an underscore. You need python 2.
